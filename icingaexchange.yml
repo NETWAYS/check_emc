@@ -1,0 +1,24 @@
+name: check_emc
+description: "file:///README.md"
+url: "https://www.netways.org/projects/plugins"
+tags: ~
+vendor: NETWAYS,EMC
+target: Storage
+type: Plugin
+license: gplv2
+releases: 
+  - 
+    name: 1.0
+    description: "1.0 Release"
+    files: 
+      - 
+        name: check_emc_centera.pl
+        url: "file:///check_emc_centera.pl"
+        description: none
+        checksum: d35fff66298a5e3f844657a17bedb20b
+      - 
+        name: check_emc_clariion.pl
+        url: "file:///check_emc_clariion.pl"
+        description: none
+        checksum: d70e5ce2117854315f9601818ec6d0c9
+
