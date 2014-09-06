@@ -1,0 +1,7 @@
+check_emc_clariion.pl - checks the EMC CLARIION SAN devices
+Copyright (C) 2005-2011  NETWAYS GmbH, www.netways.de
+Author: Michael Streb <michael.streb@netways.de>
+
+2011-08-04 Thanks to Alex Kanogin for his patch to correct the
+           enclosure syntax.
+
